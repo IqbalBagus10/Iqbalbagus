@@ -1,0 +1,17 @@
+{
+  "name": "iqbalbagus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "W6D1app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node W6D1app.js",
+    "dev" : "node W6D1app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
